@@ -1,6 +1,4 @@
-Hi, i'm gesoos
-
-I'm not a dev but i vibecode hard web3 stuff and i love to learn new things
+Hi, i'm gesoos, i'm not a dev but i vibecode hard
 
 <!---
 Gesooisgithub/Gesooisgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
